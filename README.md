@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skjsfkjn
+- 👋 Hi, I’m @khaihoang
 - 👀 I’m interested in iformation technology
 - 🌱 I’m currently learning visual c++
 - 📫 How to reach me khaih3222@gmail.com 
